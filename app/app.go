@@ -1,8 +1,9 @@
 package app
 
 import (
-	"github.com/tatrasoft/go-microservice/controller"
 	"net/http"
+	
+	"github.com/tatrasoft/go-microservice/controller"
 )
 
 func StartApp() {

@@ -2,8 +2,9 @@ package model
 
 import (
 	"fmt"
-	"github.com/tatrasoft/go-microservice/utils"
 	"net/http"
+
+	"github.com/tatrasoft/go-microservice/utils"
 )
 
 var users = map[int64]*User {

@@ -2,10 +2,11 @@ package controller
 
 import (
 	"encoding/json"
-	"github.com/tatrasoft/go-microservice/services"
-	"github.com/tatrasoft/go-microservice/utils"
 	"net/http"
 	"strconv"
+
+	"github.com/tatrasoft/go-microservice/services"
+	"github.com/tatrasoft/go-microservice/utils"
 )
 
 const(
